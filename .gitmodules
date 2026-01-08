@@ -1,0 +1,3 @@
+[submodule "Libraries/steamwrapper"]
+	path = Libraries/steamwrapper
+	url = https://github.com/thecocce/steamwrapper.git
