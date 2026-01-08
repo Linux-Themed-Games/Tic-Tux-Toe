@@ -1,6 +1,6 @@
 # Tic-Tux-Toe
 
-Note: this repository includes a git submodule at `Libraries/steamwrapper`.
+Note: this repository includes a git submodule at `Lib/steamwrapper`.
 When cloning or pulling this repo, also initialize/update submodules:
 
 ```
